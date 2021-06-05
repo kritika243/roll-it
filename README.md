@@ -14,7 +14,7 @@ Nodejs Installed in your device
 
 ### A sneak peak
 
-![]()
+![](https://github.com/kritika243/roll-it/blob/main/public/roll-it-demo.gif)
 
 ### How to Run this application on your Local Machine
 
