@@ -12,7 +12,7 @@ Nodejs Installed in your device
 
 - Reactjs
 
-### A sneak peak
+### A sneak peek
 
 ![](https://github.com/kritika243/roll-it/blob/main/public/roll-it-demo.gif)
 
