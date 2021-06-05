@@ -12,6 +12,10 @@ Nodejs Installed in your device
 
 - Reactjs
 
+### A sneak peak
+
+![]()
+
 ### How to Run this application on your Local Machine
 
 - Clone / Download this repository
