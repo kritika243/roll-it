@@ -2,6 +2,8 @@
 
 Roll the die and see what you get!
 
+- [Try it Out](https://kritika243.github.io/roll-it/)
+
 ## Prerequisite
 
 Nodejs Installed in your device
@@ -15,6 +17,5 @@ Nodejs Installed in your device
 - Clone / Download this repository
 - Write "npm install" in your terminal to install all node dependencies
 - Run "npm start" to run the project in your local machine
-- [Live Demo](https://kritika243.github.io/PokeMax/)
 
 **_Glad to see you here! Show some love by [starring](https://github.com/kritika243/roll-it) this repo._**
