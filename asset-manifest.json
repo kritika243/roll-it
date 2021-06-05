@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/roll-it/static/css/main.6f71024e.chunk.css",
+    "main.js": "/roll-it/static/js/main.128622ad.chunk.js",
+    "main.js.map": "/roll-it/static/js/main.128622ad.chunk.js.map",
+    "runtime-main.js": "/roll-it/static/js/runtime-main.a557c56c.js",
+    "runtime-main.js.map": "/roll-it/static/js/runtime-main.a557c56c.js.map",
+    "static/js/2.849c1140.chunk.js": "/roll-it/static/js/2.849c1140.chunk.js",
+    "static/js/2.849c1140.chunk.js.map": "/roll-it/static/js/2.849c1140.chunk.js.map",
+    "static/js/3.73a9d9d3.chunk.js": "/roll-it/static/js/3.73a9d9d3.chunk.js",
+    "static/js/3.73a9d9d3.chunk.js.map": "/roll-it/static/js/3.73a9d9d3.chunk.js.map",
+    "index.html": "/roll-it/index.html",
+    "static/css/main.6f71024e.chunk.css.map": "/roll-it/static/css/main.6f71024e.chunk.css.map",
+    "static/js/2.849c1140.chunk.js.LICENSE.txt": "/roll-it/static/js/2.849c1140.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a557c56c.js",
+    "static/js/2.849c1140.chunk.js",
+    "static/css/main.6f71024e.chunk.css",
+    "static/js/main.128622ad.chunk.js"
+  ]
+}
